@@ -1,0 +1,20 @@
+:root{
+   --txtColor: rgb(255, 210, 77);
+   --mainColor : rgb(214, 163, 9);
+   --black : rgb(0,0,0);
+}
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family:'Times New Roman', Times, serif  ;
+   color: white;
+   list-style-type: none;
+   text-decoration: none;
+}
+
+body{
+   width: 100%;
+   min-height: 100vh;
+}
